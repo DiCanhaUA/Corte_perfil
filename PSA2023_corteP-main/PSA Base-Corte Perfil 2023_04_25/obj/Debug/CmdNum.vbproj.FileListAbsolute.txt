@@ -1,0 +1,116 @@
+E:\Os Meus Doc\Universidade\CNC 2020\CmdNum\CmdNum\bin\Debug\CmdNum.exe.config
+E:\Os Meus Doc\Universidade\CNC 2020\CmdNum\CmdNum\bin\Debug\CmdNum.exe
+E:\Os Meus Doc\Universidade\CNC 2020\CmdNum\CmdNum\bin\Debug\CmdNum.pdb
+E:\Os Meus Doc\Universidade\CNC 2020\CmdNum\CmdNum\bin\Debug\CmdNum.xml
+E:\Os Meus Doc\Universidade\CNC 2020\CmdNum\CmdNum\obj\Debug\CmdNum.vbprojAssemblyReference.cache
+E:\Os Meus Doc\Universidade\CNC 2020\CmdNum\CmdNum\obj\Debug\CmdNum.Resources.resources
+E:\Os Meus Doc\Universidade\CNC 2020\CmdNum\CmdNum\obj\Debug\CmdNum.vbproj.GenerateResource.cache
+E:\Os Meus Doc\Universidade\CNC 2020\CmdNum\CmdNum\obj\Debug\CmdNum.vbproj.CoreCompileInputs.cache
+E:\Os Meus Doc\Universidade\CNC 2020\CmdNum\CmdNum\obj\Debug\CmdNum.exe
+E:\Os Meus Doc\Universidade\CNC 2020\CmdNum\CmdNum\obj\Debug\CmdNum.xml
+E:\Os Meus Doc\Universidade\CNC 2020\CmdNum\CmdNum\obj\Debug\CmdNum.pdb
+E:\Os Meus Doc\Universidade\CNC 2020\CmdNum\CmdNum\obj\Debug\CmdNum.MainForm.resources
+E:\Os Meus Doc\Universidade\CNC 2020\CmdNum\CmdNum\obj\Debug\Interop.Mach4.dll
+E:\Os Meus Doc\Universidade\CNC 2020\CmdNum\CmdNum\obj\Debug\CmdNum.vbproj.ResolveComReference.cache
+C:\Users\David Silva\Desktop\CNC 2020 2\CNC 2020\CmdNum\CmdNum\obj\Debug\CmdNum.vbprojAssemblyReference.cache
+C:\Users\David Silva\Desktop\CNC 2020 2\CNC 2020\CmdNum\CmdNum\obj\Debug\Interop.Mach4.dll
+C:\Users\David Silva\Desktop\CNC 2020 2\CNC 2020\CmdNum\CmdNum\obj\Debug\CmdNum.vbproj.ResolveComReference.cache
+C:\Users\David Silva\Desktop\CNC 2020 2\CNC 2020\CmdNum\CmdNum\obj\Debug\CmdNum.exe
+C:\Users\David Silva\Desktop\CNC 2020 2\CNC 2020\CmdNum\CmdNum\obj\Debug\CmdNum.xml
+C:\Users\David Silva\Desktop\CNC 2020 2\CNC 2020\CmdNum\CmdNum\obj\Debug\CmdNum.pdb
+C:\Users\David Silva\Desktop\CNC 2020 2\CNC 2020\CmdNum\CmdNum\bin\Debug\CmdNum.exe.config
+C:\Users\David Silva\Desktop\CNC 2020 2\CNC 2020\CmdNum\CmdNum\bin\Debug\CmdNum.exe
+C:\Users\David Silva\Desktop\CNC 2020 2\CNC 2020\CmdNum\CmdNum\bin\Debug\CmdNum.pdb
+C:\Users\David Silva\Desktop\CNC 2020 2\CNC 2020\CmdNum\CmdNum\bin\Debug\CmdNum.xml
+C:\Users\David Silva\Desktop\CNC 2020 2\CNC 2020\CmdNum\CmdNum\obj\Debug\CmdNum.MainForm.resources
+C:\Users\David Silva\Desktop\CNC 2020 2\CNC 2020\CmdNum\CmdNum\obj\Debug\CmdNum.Resources.resources
+C:\Users\David Silva\Desktop\CNC 2020 2\CNC 2020\CmdNum\CmdNum\obj\Debug\CmdNum.vbproj.GenerateResource.cache
+C:\Users\David Silva\Desktop\CNC 2020 2\CNC 2020\CmdNum\CmdNum\obj\Debug\CmdNum.vbproj.CoreCompileInputs.cache
+C:\Users\David Silva\Desktop\5º ano\5ºano1ºsem\CNC\CNC 2020 2\CNC 2020\CmdNum\CmdNum\bin\Debug\CmdNum.exe.config
+C:\Users\David Silva\Desktop\5º ano\5ºano1ºsem\CNC\CNC 2020 2\CNC 2020\CmdNum\CmdNum\bin\Debug\CmdNum.exe
+C:\Users\David Silva\Desktop\5º ano\5ºano1ºsem\CNC\CNC 2020 2\CNC 2020\CmdNum\CmdNum\bin\Debug\CmdNum.pdb
+C:\Users\David Silva\Desktop\5º ano\5ºano1ºsem\CNC\CNC 2020 2\CNC 2020\CmdNum\CmdNum\bin\Debug\CmdNum.xml
+C:\Users\David Silva\Desktop\5º ano\5ºano1ºsem\CNC\CNC 2020 2\CNC 2020\CmdNum\CmdNum\obj\Debug\CmdNum.vbprojAssemblyReference.cache
+C:\Users\David Silva\Desktop\5º ano\5ºano1ºsem\CNC\CNC 2020 2\CNC 2020\CmdNum\CmdNum\obj\Debug\Interop.Mach4.dll
+C:\Users\David Silva\Desktop\5º ano\5ºano1ºsem\CNC\CNC 2020 2\CNC 2020\CmdNum\CmdNum\obj\Debug\CmdNum.vbproj.ResolveComReference.cache
+C:\Users\David Silva\Desktop\5º ano\5ºano1ºsem\CNC\CNC 2020 2\CNC 2020\CmdNum\CmdNum\obj\Debug\CmdNum.MainForm.resources
+C:\Users\David Silva\Desktop\5º ano\5ºano1ºsem\CNC\CNC 2020 2\CNC 2020\CmdNum\CmdNum\obj\Debug\CmdNum.Resources.resources
+C:\Users\David Silva\Desktop\5º ano\5ºano1ºsem\CNC\CNC 2020 2\CNC 2020\CmdNum\CmdNum\obj\Debug\CmdNum.vbproj.GenerateResource.cache
+C:\Users\David Silva\Desktop\5º ano\5ºano1ºsem\CNC\CNC 2020 2\CNC 2020\CmdNum\CmdNum\obj\Debug\CmdNum.vbproj.CoreCompileInputs.cache
+C:\Users\David Silva\Desktop\5º ano\5ºano1ºsem\CNC\CNC 2020 2\CNC 2020\CmdNum\CmdNum\obj\Debug\CmdNum.exe
+C:\Users\David Silva\Desktop\5º ano\5ºano1ºsem\CNC\CNC 2020 2\CNC 2020\CmdNum\CmdNum\obj\Debug\CmdNum.xml
+C:\Users\David Silva\Desktop\5º ano\5ºano1ºsem\CNC\CNC 2020 2\CNC 2020\CmdNum\CmdNum\obj\Debug\CmdNum.pdb
+E:\Os Meus Doc\Universidade\PSA 2023\Samples VB\PSA Base-Corte Perfil 2023_04_25\bin\Debug\CmdNum.exe.config
+E:\Os Meus Doc\Universidade\PSA 2023\Samples VB\PSA Base-Corte Perfil 2023_04_25\bin\Debug\CmdNum.exe
+E:\Os Meus Doc\Universidade\PSA 2023\Samples VB\PSA Base-Corte Perfil 2023_04_25\bin\Debug\CmdNum.pdb
+E:\Os Meus Doc\Universidade\PSA 2023\Samples VB\PSA Base-Corte Perfil 2023_04_25\bin\Debug\CmdNum.xml
+E:\Os Meus Doc\Universidade\PSA 2023\Samples VB\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.vbproj.AssemblyReference.cache
+E:\Os Meus Doc\Universidade\PSA 2023\Samples VB\PSA Base-Corte Perfil 2023_04_25\obj\Debug\Interop.Mach4.dll
+E:\Os Meus Doc\Universidade\PSA 2023\Samples VB\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.vbproj.ResolveComReference.cache
+E:\Os Meus Doc\Universidade\PSA 2023\Samples VB\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.MainForm.resources
+E:\Os Meus Doc\Universidade\PSA 2023\Samples VB\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.Resources.resources
+E:\Os Meus Doc\Universidade\PSA 2023\Samples VB\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.vbproj.GenerateResource.cache
+E:\Os Meus Doc\Universidade\PSA 2023\Samples VB\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.vbproj.CoreCompileInputs.cache
+E:\Os Meus Doc\Universidade\PSA 2023\Samples VB\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.exe
+E:\Os Meus Doc\Universidade\PSA 2023\Samples VB\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.xml
+E:\Os Meus Doc\Universidade\PSA 2023\Samples VB\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.pdb
+D:\Os Meus Doc\Universidade\PSA Base-Corte Perfil 2023_04_25\bin\Debug\CmdNum.exe.config
+D:\Os Meus Doc\Universidade\PSA Base-Corte Perfil 2023_04_25\bin\Debug\CmdNum.exe
+D:\Os Meus Doc\Universidade\PSA Base-Corte Perfil 2023_04_25\bin\Debug\CmdNum.pdb
+D:\Os Meus Doc\Universidade\PSA Base-Corte Perfil 2023_04_25\bin\Debug\CmdNum.xml
+D:\Os Meus Doc\Universidade\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.vbproj.AssemblyReference.cache
+D:\Os Meus Doc\Universidade\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.vbproj.SuggestedBindingRedirects.cache
+D:\Os Meus Doc\Universidade\PSA Base-Corte Perfil 2023_04_25\obj\Debug\Interop.Mach4.dll
+D:\Os Meus Doc\Universidade\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.vbproj.ResolveComReference.cache
+D:\Os Meus Doc\Universidade\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.MainForm.resources
+D:\Os Meus Doc\Universidade\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.Resources.resources
+D:\Os Meus Doc\Universidade\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.vbproj.GenerateResource.cache
+D:\Os Meus Doc\Universidade\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.vbproj.CoreCompileInputs.cache
+D:\Os Meus Doc\Universidade\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.exe
+D:\Os Meus Doc\Universidade\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.xml
+D:\Os Meus Doc\Universidade\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.pdb
+C:\work\PSA Base-Corte Perfil 2023_04_25\bin\Debug\CmdNum.exe.config
+C:\work\PSA Base-Corte Perfil 2023_04_25\bin\Debug\CmdNum.exe
+C:\work\PSA Base-Corte Perfil 2023_04_25\bin\Debug\CmdNum.pdb
+C:\work\PSA Base-Corte Perfil 2023_04_25\bin\Debug\CmdNum.xml
+C:\work\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.vbproj.AssemblyReference.cache
+C:\work\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.vbproj.SuggestedBindingRedirects.cache
+C:\work\PSA Base-Corte Perfil 2023_04_25\obj\Debug\Interop.Mach4.dll
+C:\work\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.vbproj.ResolveComReference.cache
+C:\work\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.MainForm.resources
+C:\work\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.Resources.resources
+C:\work\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.vbproj.GenerateResource.cache
+C:\work\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.vbproj.CoreCompileInputs.cache
+C:\work\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.exe
+C:\work\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.xml
+C:\work\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.pdb
+C:\work\PSA Base-Corte Perfil 2023_04_25\bin\Debug\Interop.WMPLib.dll
+C:\work\PSA Base-Corte Perfil 2023_04_25\bin\Debug\AxInterop.WMPLib.dll
+C:\work\PSA Base-Corte Perfil 2023_04_25\obj\Debug\Interop.WMPLib.dll
+C:\work\PSA Base-Corte Perfil 2023_04_25\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\PSA2024\PSA2023_corteP-main\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.vbproj.AssemblyReference.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\PSA2024\PSA2023_corteP-main\PSA Base-Corte Perfil 2023_04_25\obj\Debug\Interop.WMPLib.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\PSA2024\PSA2023_corteP-main\PSA Base-Corte Perfil 2023_04_25\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\PSA2024\PSA2023_corteP-main\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.vbproj.ResolveComReference.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\PSA2024\PSA2023_corteP-main\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.exe
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\PSA2024\PSA2023_corteP-main\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.xml
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\PSA2024\PSA2023_corteP-main\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\PSA2024\PSA2023_corteP-main\PSA Base-Corte Perfil 2023_04_25\obj\Debug\Interop.Mach4.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\PSA_Prático\PSA2023_corteP-main\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.vbproj.AssemblyReference.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\PSA_Prático\PSA2023_corteP-main\PSA Base-Corte Perfil 2023_04_25\obj\Debug\Interop.Mach4.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\PSA_Prático\PSA2023_corteP-main\PSA Base-Corte Perfil 2023_04_25\obj\Debug\Interop.WMPLib.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\PSA_Prático\PSA2023_corteP-main\PSA Base-Corte Perfil 2023_04_25\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\PSA_Prático\PSA2023_corteP-main\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.vbproj.ResolveComReference.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\PSA_Prático\PSA2023_corteP-main\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.exe
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\PSA_Prático\PSA2023_corteP-main\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.xml
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\PSA_Prático\PSA2023_corteP-main\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\PSA_Prático\PSA2023_corteP-main\PSA Base-Corte Perfil 2023_04_25\bin\Debug\CmdNum.exe.config
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\PSA_Prático\PSA2023_corteP-main\PSA Base-Corte Perfil 2023_04_25\bin\Debug\CmdNum.exe
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\PSA_Prático\PSA2023_corteP-main\PSA Base-Corte Perfil 2023_04_25\bin\Debug\CmdNum.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\PSA_Prático\PSA2023_corteP-main\PSA Base-Corte Perfil 2023_04_25\bin\Debug\CmdNum.xml
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\PSA_Prático\PSA2023_corteP-main\PSA Base-Corte Perfil 2023_04_25\bin\Debug\Interop.WMPLib.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\PSA_Prático\PSA2023_corteP-main\PSA Base-Corte Perfil 2023_04_25\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\PSA_Prático\PSA2023_corteP-main\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.MainForm.resources
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\PSA_Prático\PSA2023_corteP-main\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.Resources.resources
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\PSA_Prático\PSA2023_corteP-main\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.vbproj.GenerateResource.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\PSA_Prático\PSA2023_corteP-main\PSA Base-Corte Perfil 2023_04_25\obj\Debug\CmdNum.vbproj.CoreCompileInputs.cache
